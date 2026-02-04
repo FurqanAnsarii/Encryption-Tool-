@@ -1,4 +1,4 @@
-# 🔐 Encryption Tool (Project 3)
+# 🔐 Encryption Tool
 
 ## Internship Program
 **Cyber Security – Self-Learning Internship Program**  
